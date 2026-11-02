@@ -57,8 +57,8 @@ Improve Electronics profitability through pricing and discount reviews, strength
 | File | Description |
 |---|---|
 | dashboard.png | Executive dashboard screenshot |
-| insights.pdf | Strategic business insights report |
-| apnomart.pbix | Power BI source project |
+| Insights.pdf | Strategic business insights report |
+| apno.pbix | Power BI source project |
 
 ## 📊 Project Objective
 
